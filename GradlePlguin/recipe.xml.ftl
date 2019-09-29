@@ -3,7 +3,7 @@
 <recipe>
 	<mkdir at="${escapeXmlAttribute(projectOut)}/src/main/kotlin/" />
 	<mkdir at="${escapeXmlAttribute(projectOut)}/src/main/groovy/" />
-	<mkdir at="${escapeXmlAttribute(projectOut)}/src/main/resources/META_INF/gradle-lugins/" />
+	<mkdir at="${escapeXmlAttribute(projectOut)}/src/main/resources/META-INF/gradle-plugins/" />
 
     <merge from="root/settings.gradle.ftl"
              to="${escapeXmlAttribute(topOut)}/settings.gradle" />
