@@ -12,7 +12,7 @@
                    to="${escapeXmlAttribute(projectOut)}/build.gradle" />
 				   
 	<instantiate from="root/src/app_package/plguin.properties.ftl"
-                   to="${escapeXmlAttribute(projectOut)}/src/main/resources/META_INF/gradle-lugins/${packageName}.properties" />
+                   to="${escapeXmlAttribute(projectOut)}/src/main/resources/META-INF/gradle-lugins/${packageName}.properties" />
 	
 
 <#include "root://gradle-projects/common/proguard_recipe.xml.ftl"/>
