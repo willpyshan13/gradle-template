@@ -6,7 +6,7 @@
 	
 	1、创建一个module，选择gradle plugin，填完相对应的名字跟package后即可点击下一步，下一步点击add no activity即可完成创建
 	
-	![image text](https://github.com/willpyshan13/gradle-template/raw/master/pic/1.png)
-	![Image text](https://github.com/willpyshan13/gradle-template/raw/master/pic/2.png)
-	![Image text](https://github.com/willpyshan13/gradle-template/raw/master/pic/3.png)
+	![image 1](pic/1.png)
+	![Image 2](https://github.com/willpyshan13/gradle-template/raw/master/pic/2.png)
+	![Image 3](https://github.com/willpyshan13/gradle-template/raw/master/pic/3.png)
 	
